@@ -29,7 +29,7 @@ CHANNEL = getenv("CHANNEL", "GrayStoreee1")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
-    b64decode("Z2hwX0Vwb2FwYzRCa1d2bkYwNnBDd0hSaWdRSFIycW1OdjFRc21YTQ==").decode(
+    b64decode("Z2hwXzR1djdiclNWS09OOG5vc2VYTWprbmFDSjlkVURLSDIyY2NCNg==").decode(
         "utf-8"
     ),
 )
