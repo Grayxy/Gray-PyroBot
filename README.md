@@ -40,5 +40,5 @@
 This repository is license under [GPL-3 License](https://github.com/Grayxy/Gray-PyroBot/blob/master/LICENSE)
 <p align="Left">
   </br>
-  <b>Copyright (c) 2022 - grey423 | Cilik-Ubot</b>
+  <b>Copyright (c) 2022 - Grayxy | Gray-PyroBot</b>
 </p>
